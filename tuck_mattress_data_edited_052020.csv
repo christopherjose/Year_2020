@@ -1,0 +1,387 @@
+brand,model,price,type,height,weight,firmness,trial,I_trial,I_firmness,I_weight,I_height
+Nectar,Nectar Mattress,799.0,Foam,11.0,74.0,6.5,365.0,0,0,0,0
+Casper,Casper,995.0,Foam,9.5,71.0,5.5,100.0,0,0,0,0
+DreamCloud,DreamCloud Mattress,999.0,Hybrid,15.0,94.0,6.5,365.0,0,0,0,0
+Bear,Bear Hybrid,1390.0,Hybrid,14.5,110.0,6.0,100.0,0,0,0,0
+Leesa,Leesa Mattress,999.0,Foam,10.0,71.0,5.0,100.0,0,0,0,0
+Purple,Purple Mattress,999.0,Foam,9.5,110.0,6.5,100.0,0,0,0,0
+Leesa,Leesa Hybrid Mattress,1599.0,Hybrid,11.0,115.0,6.5,100.0,0,0,0,0
+Bear,Bear Mattress,840.0,Foam,10.0,70.0,5.5,100.0,0,0,0,0
+Tuft & Needle,T&N Hybrid,1495.0,Hybrid,12.0,112.0,6.0,100.0,0,0,0,0
+Awara,Awara Mattress,1299.0,Hybrid,13.0,,6.0,365.0,0,0,1,0
+Saatva,Solaire,2695.0,Smart/Other,13.5,114.0,,120.0,0,1,0,0
+Propel,Propel Mattress,999.0,Hybrid,11.5,105.0,5.5,120.0,0,0,0,0
+Winkbeds,EcoCloud,1799.0,Hybrid,13.0,117.0,5.0,120.0,0,0,0,0
+Allswell,Allswell Supreme,985.0,Hybrid,14.0,92.0,5.5,100.0,0,0,0,0
+Bear,Bear Pro,1150.0,Foam,12.0,80.0,6.5,100.0,0,0,0,0
+Nolah,Nolah Original,949.0,Foam,10.0,74.0,5.5,120.0,0,0,0,0
+Casper,Wave Hybrid,2695.0,Hybrid,13.0,113.0,4.5,100.0,0,0,0,0
+Casper,Casper Hybrid,1195.0,Hybrid,12.0,106.0,5.5,100.0,0,0,0,0
+Helix Sleep,Helix LUXE,1620.0,Hybrid,14.0,120.0,,100.0,0,1,0,0
+Helix Sleep,Helix Nightfall,1115.0,Hybrid,12.0,100.0,6.0,100.0,0,0,0,0
+Helix Sleep,Helix Twilight,899.0,Hybrid,12.0,95.0,7.0,100.0,0,0,0,0
+Helix Sleep,Helix Dawn,899.0,Hybrid,12.0,95.0,7.0,100.0,0,0,0,0
+Helix Sleep,Helix Dusk,899.0,Hybrid,12.0,95.0,5.5,100.0,0,0,0,0
+Helix Sleep,Helix Moonlight,899.0,Hybrid,12.0,95.0,3.5,100.0,0,0,0,0
+Parachute,Parachute Mattress,1899.0,Hybrid,13.0,,6.5,90.0,0,0,1,0
+Brunswick,Brunswick Spring Mattress,749.0,Hybrid,12.0,79.0,6.0,120.0,0,0,0,0
+Recore,Recore,849.0,Latex,10.5,95.0,6.0,120.0,0,0,0,0
+Helix Sleep,Helix Midnight,899.0,Hybrid,12.0,95.0,5.5,100.0,0,0,0,0
+Tempur-Pedic,TEMPUR-Adapt,2199.0,Foam,11.0,79.0,5.0,90.0,0,0,0,0
+Titan,Titan,999.0,Hybrid,11.0,110.0,8.0,120.0,0,0,0,0
+Plank,Plank,999.0,Foam,11.5,70.0,8.0,120.0,0,0,0,0
+Brooklyn Bedding,Brooklyn Bowery Hybrid,799.0,Hybrid,10.0,,6.5,100.0,0,0,1,0
+Douglas,Douglas Mattress,749.0,Foam,10.0,65.0,6.0,120.0,0,0,0,0
+Tuft & Needle,Mint Mattress,795.0,Foam,12.0,80.0,6.0,100.0,0,0,0,0
+My Green Mattress,Natural Escape,1199.0,Hybrid,11.0,110.0,6.0,100.0,0,0,0,0
+My Green Mattress,Pure Echo (1 and 2 sided),779.0,Innerspring,10.375,87.5,6.0,100.0,0,0,0,0
+Allswell,Allswell Luxe Hybrid,645.0,Hybrid,12.0,90.0,6.5,100.0,0,0,0,0
+Allswell,The Allswell,345.0,Hybrid,10.0,78.0,6.0,100.0,0,0,0,0
+Purple,Purple Hybrid,1449.0,Hybrid,11.0,122.0,6.5,100.0,0,0,0,0
+Winkbeds,WinkBed PLUS,1499.0,Hybrid,14.5,135.0,8.0,120.0,0,0,0,0
+Brooklyn Bedding,Brooklyn Bowery,699.0,Foam,10.0,110.0,5.5,120.0,0,0,0,0
+Puffy,Puffy,850.0,Foam,10.0,72.0,5.0,101.0,0,0,0,0
+Big Fig,Big Fig Mattress,1699.0,Hybrid,13.0,120.0,6.5,120.0,0,0,0,0
+Casper,Casper Essential,595.0,Foam,11.0,63.0,6.0,100.0,0,0,0,0
+Eight,The Pod,2195.0,Foam,11.0,,5.5,100.0,0,0,1,0
+Casper,Casper Wave,2395.0,Foam,11.5,109.0,4.5,100.0,0,0,0,0
+Rest,Airbed,3999.0,Smart/Other,12.0,,,90.0,0,1,1,0
+2920 Sleep,2920 Mattress,1095.0,Foam,10.0,73.0,5.0,100.0,0,0,0,0
+Airweave,Fiber,1200.0,Smart/Other,8.5,77.0,7.5,60.0,0,0,0,0
+Airweave,airweave Mattress Advanced,1455.0,Foam,8.5,69.0,,100.0,0,1,0,0
+Amazonbasics,AmazonBasics Mattress,200.0,Foam,10.0,55.5,4.0,30.0,0,0,0,0
+Ameena by US-Mattress.com,,800.0,Foam,10.0,65.0,6.0,120.0,0,0,0,0
+Amerisleep,AS1,1199.0,Foam,10.0,,7.5,100.0,0,0,1,0
+Amerisleep,AS2,1299.0,Foam,12.0,,6.5,100.0,0,0,1,0
+Amerisleep,AS3,1399.0,Foam,12.0,88.0,5.5,100.0,0,0,0,0
+Amerisleep,AS3 Hybrid,1399.0,Hybrid,12.0,104.0,5.5,100.0,0,0,0,0
+Amerisleep,AS4,1699.0,Foam,12.0,,4.5,100.0,0,0,1,0
+Amerisleep,AS5,2099.0,Foam,14.0,,3.5,100.0,0,0,1,0
+Apollo,Apollo,1249.0,Foam,12.0,83.0,5.0,120.0,0,0,0,0
+Aslan,Aslan Mattress,699.0,Foam,10.0,65.0,6.5,365.0,0,0,0,0
+Beautyrest Black,Beautyrest Black + Cooling,2699.0,Hybrid,13.75,,5.5,100.0,0,0,1,0
+Beautyrest Black,Beautyrest Black + Cooling + Comfort,2899.0,Hybrid,16.0,,4.0,100.0,0,0,1,0
+Beautyrest Black,Beautyrest Hybrid,1299.0,Hybrid,13.5,,6.5,100.0,0,0,1,0
+BedInABox,Azul,1099.0,Foam,11.0,90.0,4.5,120.0,0,0,0,0
+BedInABox,Pacbed Lite,699.0,Foam,9.0,51.0,6.5,120.0,0,0,0,0
+BedInABox,Pacbed Original,879.0,Foam,11.0,90.0,5.5,120.0,0,0,0,0
+BedInABox,Serenity,1899.0,Foam,13.0,101.0,3.5,120.0,0,0,0,0
+BedInABox,Tranquility,1299.0,Foam,11.0,90.0,7.5,120.0,0,0,0,0
+Birch,Birch Mattress,1499.0,Hybrid,11.0,,6.5,100.0,0,0,1,0
+Bob-O-Pedic,9 Gel,399.0,Foam,9.0,,,90.0,0,1,1,0
+Bob-O-Pedic,9 Hybrid,399.0,Hybrid,9.0,,,90.0,0,1,1,0
+Bob-O-Pedic,Cirrus Gel,599.0,Foam,10.0,,,90.0,0,1,1,0
+Bob-O-Pedic,Gel,799.0,Foam,12.0,,,90.0,0,1,1,0
+Bob-O-Pedic,Hybrid,799.0,Hybrid,11.0,,5.0,90.0,0,0,1,0
+Bob-O-Pedic,MyBobGel,1099.0,Foam,14.0,,,90.0,0,1,1,0
+Bob-O-Pedic,Bob-O-Pedic Sky,699.0,Foam,11.5,,,90.0,0,1,1,0
+Boll & Branch,The Mattress,2500.0,Hybrid,13.5,110.0,6.0,100.0,0,0,0,0
+Brentwood Home,Avalon,795.0,Innerspring,10.0,54.0,3.0,120.0,0,0,0,0
+Brentwood Home,Coronado,995.0,Foam,14.0,96.0,4.0,120.0,0,0,0,0
+Brentwood Home,Del Mar,995.0,Innerspring,12.0,106.0,4.5,120.0,0,0,0,0
+Brentwood Home,Palmetto,1149.0,Latex,13.0,106.0,7.0,120.0,0,0,0,0
+Brentwood Home,Solano,949.0,Latex,10.0,99.0,8.0,120.0,0,0,0,0
+Brentwood Home,Cedar,2899.0,Hybrid,15.0,135.0,5.0,120.0,0,0,0,0
+Brentwood Home,Mirador,1649.0,Latex,15.0,113.0,3.0,120.0,0,0,0,0
+Brentwood Home,Oceano,1495.0,Hybrid,14.5,135.0,6.0,120.0,0,0,0,0
+Brentwood Home,Ojai,1195.0,Hybrid,12.0,89.0,6.0,120.0,0,0,0,0
+Brentwood Home,Sequoia,1495.0,Latex,14.0,103.0,6.0,120.0,0,0,0,0
+Brentwood Home,Sierra,795.0,Foam,10.0,89.0,5.0,120.0,0,0,0,0
+Casper,The Casper Element,595.0,Foam,11.0,,6.0,100.0,0,0,1,0
+Casper,The Casper Nova,1795.0,Foam,12.0,,4.0,100.0,0,0,1,0
+Casper,The Casper Nova Hybrid,1995.0,Hybrid,12.0,89.0,4.0,100.0,0,0,0,0
+Casper,The Casper Snug,495.0,Foam,8.5,73.0,7.0,100.0,0,0,0,0
+Comfortaire,Genesis,1299.0,Smart/Other,11.5,,,100.0,0,1,1,0
+Corsicana,Foam,356.0,Foam,8.5,85.0,,,1,1,0,0
+Corsicana,Coil,363.0,Innerspring,12.25,,,,1,1,1,0
+Craft,Craft Mattress,1400.0,Foam,13.5,130.0,,100.0,0,1,0,0
+Crave,"Luxury Firm Firm Foam, Medium Firm Foam",595.0,Foam,11.0,,,100.0,0,1,1,0
+Crave,"Ultra Plush Hybrid Innerspring, Luxury Firm Hybrid Innerspring",950.0,Hybrid,9.5,,,100.0,0,1,1,0
+Diamond Mattress,Intention Hybrid,1399.0,Hybrid,14.0,80.0,5.0,120.0,0,0,0,0
+Doze,,750.0,Foam,10.0,80.0,7.0,75.0,0,0,0,0
+Dreamfoam Bedding,Arctic Dreams,229.0,Foam,10.0,,,90.0,0,1,1,0
+Dreamfoam Bedding,Latex,599.0,Latex,12.0,,,90.0,0,1,1,0
+Dreamfoam Bedding,Memory Foam,499.0,Foam,11.5,,,90.0,0,1,1,0
+Duxiana,1001,3445.0,Hybrid,12.75,,,30.0,0,1,1,0
+Duxiana,3003,4445.0,Hybrid,16.0,,,30.0,0,1,1,0
+Duxiana,6006,6020.0,Hybrid,20.0,,,30.0,0,1,1,0
+Duxiana,8008,7590.0,Hybrid,20.0,,,30.0,0,1,1,0
+Ecosleep,EcoSleep Hybrid,1249.0,Hybrid,11.5,110.0,6.5,120.0,0,0,0,0
+Eight,Saturn,599.0,Foam,10.0,,6.5,100.0,0,0,1,0
+Eight,Smart Bed,995.0,Foam,10.0,80.0,6.5,100.0,0,0,0,0
+Eight,Venus+,1449.0,Hybrid,11.0,,4.5,100.0,0,0,1,0
+eLuxury,"10"" Gel Memory Foam",544.0,Foam,10.0,75.0,6.5,120.0,0,0,0,0
+eLuxury,"12"" Latex and Memory Foam Hybrid",1000.0,Foam,12.0,96.0,5.5,120.0,0,0,0,0
+Emma,Emma Mattress,899.0,Foam,12.0,58.0,6.0,100.0,0,0,0,0
+Endy,Endy Mattress,850.0,Foam,10.0,70.0,6.0,100.0,0,0,0,0
+Englander,ViscoPedic,900.0,Foam,10.5,,,,1,1,1,0
+Englander,Nature's Finest,2100.0,Latex,10.0,38.0,,,1,1,0,0
+Essentia,Beausommet,5522.0,Latex,8.0,,6.5,60.0,0,0,1,0
+Essentia,Energie Opus,4350.0,Latex,8.0,,5.0,60.0,0,0,1,0
+Essentia,Stratami,2871.0,Latex,8.0,,6.5,60.0,0,0,1,0
+Essentia,Bionda,1945.0,Latex,8.0,,4.5,60.0,0,0,1,0
+Essentia,Classic 8,3395.0,Latex,8.0,,6.0,60.0,0,0,1,0
+Essentia,Dormeuse,5965.0,Latex,8.0,,4.0,60.0,0,0,1,0
+Essentia,Dormeuse Fior,6526.0,Latex,8.0,,4.0,60.0,0,0,1,0
+Essentia,Tatami,2449.0,Latex,8.0,99.0,7.0,120.0,0,0,0,0
+Ethan Allen,Contempo,899.0,Innerspring,8.0,,,0.0,0,1,1,0
+Ethan Allen,Splendor,2999.0,Innerspring,14.5,,,0.0,0,1,1,0
+Ethan Allen,Luna,2999.0,Foam,13.5,,,0.0,0,1,1,0
+Ethan Allen,Profile,1999.0,Foam,13.5,,,0.0,0,1,1,0
+Ethan Allen,Stellar,1299.0,Hybrid,10.5,,,0.0,0,1,1,0
+Eve,eve mattress,899.0,Foam,10.0,91.0,6.0,100.0,0,0,0,0
+Floyd,Floyd Mattress,1095.0,Hybrid,10.0,98.0,6.5,30.0,0,0,0,0
+Freya by Brooklyn Bedding,Freya,1999.0,Hybrid,13.5,90.0,5.0,120.0,0,0,0,0
+GhostBed,GhostBed,895.0,Latex,11.0,89.0,6.0,101.0,0,0,0,0
+GhostBed,GhostBed Flex,1285.0,Hybrid,13.0,122.0,6.0,101.0,0,0,0,0
+GhostBed,GhostBed Luxe,1375.0,Foam,13.0,122.0,5.0,101.0,0,0,0,0
+Hampton & Rhodes,Aruba,599.0,Hybrid,14.0,,3.5,100.0,0,0,1,0
+Hampton & Rhodes,Cool Gel,499.0,Foam,8.0,,6.0,100.0,0,0,1,0
+Hampton & Rhodes,HR100,110.0,Innerspring,6.5,,7.0,100.0,0,0,1,0
+Hampton & Rhodes,HR200,210.0,Innerspring,7.5,,6.0,100.0,0,0,1,0
+Hampton & Rhodes,HR300,360.0,Foam,9.0,,6.0,100.0,0,0,1,0
+Hampton & Rhodes,HR320,410.0,Innerspring,10.0,,7.0,100.0,0,0,1,0
+Hampton & Rhodes,HR340,360.0,Innerspring,10.5,,6.0,100.0,0,0,1,0
+Hampton & Rhodes,HR400,460.0,Innerspring,11.5,,7.0,100.0,0,0,1,0
+Hampton & Rhodes,HR440,610.0,Innerspring,12.5,,6.0,100.0,0,0,1,0
+Hampton & Rhodes,HR500,510.0,Foam,10.75,,4.0,100.0,0,0,1,0
+Hampton & Rhodes,San Martin,499.0,Hybrid,12.0,,4.0,100.0,0,0,1,0
+Hampton & Rhodes,Trinidad,369.0,Hybrid,10.5,,6.0,100.0,0,0,1,0
+Hampton & Rhodes,Two-Sided,329.0,Foam,10.0,,4.0,100.0,0,0,1,0
+Helix Sleep,Helix Dawn Luxe,1599.0,Hybrid,14.0,120.0,7.0,100.0,0,0,0,0
+Helix Sleep,Helix Dusk Luxe,1599.0,Hybrid,14.0,120.0,5.5,100.0,0,0,0,0
+Helix Sleep,Helix Midnight Luxe,1599.0,Hybrid,14.0,120.0,5.5,100.0,0,0,0,0
+Helix Sleep,Helix Moonlight Luxe,1599.0,Hybrid,14.0,120.0,4.0,100.0,0,0,0,0
+Helix Sleep,Helix Sunset,899.0,Hybrid,12.0,95.0,3.5,100.0,0,0,0,0
+Helix Sleep,Helix Sunset Luxe,1599.0,Hybrid,14.0,120.0,4.0,100.0,0,0,0,0
+Helix Sleep,Helix Twilight Luxe,1599.0,Hybrid,14.0,120.0,7.0,100.0,0,0,0,0
+Hyphen,Hyphen Mattress,799.0,Foam,10.0,73.0,6.0,100.0,0,0,0,0
+Ikea,Hasvag,199.0,Innerspring,8.25,57.0,6.0,365.0,0,0,0,0
+Ikea,Hjellestad,699.0,Hybrid,15.375,97.8125,5.5,365.0,0,0,0,0
+Ikea,Holmsbu,899.0,Hybrid,17.75,134.0,7.0,365.0,0,0,0,0
+Ikea,Matrand(Latex),399.0,Latex,7.125,84.0,6.0,365.0,0,0,0,0
+Ikea,Matrand(Memory Foam),399.0,Foam,7.125,57.3125,6.0,365.0,0,0,0,0
+Ikea,Meistervik,229.0,Foam,4.75,30.875,6.0,365.0,0,0,0,0
+Ikea,Minnesund,179.0,Foam,3.85,24.0,6.0,365.0,0,0,0,0
+Ikea,Morgongava,999.0,Latex,7.875,103.0,5.0,365.0,0,0,0,0
+Ikea,Myrbacka(Latex),499.0,Latex,9.5,91.0,7.0,365.0,0,0,0,0
+Ikea,Myrbacka(Memory Foam),499.0,Foam,9.5,68.0,6.0,365.0,0,0,0,0
+Intellibed,Numea Azure,3799.0,Hybrid,12.0,,6.5,60.0,0,0,1,0
+Intellibed,Numea Indigo,5499.0,Hybrid,15.0,,4.5,60.0,0,0,1,0
+Intellibed,Numea Sapphire,4199.0,Hybrid,13.0,,5.5,60.0,0,0,1,0
+Jazvin,,1050.0,Foam,11.0,83.0,,100.0,0,1,0,0
+Joybed,Joybed LX,960.0,Hybrid,11.0,78.0,7.0,120.0,0,0,0,0
+Joybed,Joybed LXC,1090.0,Hybrid,12.0,96.0,6.0,120.0,0,0,0,0
+Joybed,Joybed LXP,1190.0,Hybrid,13.0,117.0,4.0,120.0,0,0,0,0
+Keetsa,Cloud,940.0,Foam,10.0,90.0,6.5,90.0,0,0,0,0
+Keetsa,Pillow Plus,835.0,Hybrid,11.0,110.0,5.5,90.0,0,0,0,0
+Keetsa,Plus,730.0,Hybrid,9.0,90.0,7.5,90.0,0,0,0,0
+Keetsa,Tea Leaf Classic,1465.0,Hybrid,13.0,130.0,6.5,90.0,0,0,0,0
+Keetsa,Tea Leaf Dream,2310.0,Hybrid,14.0,150.0,4.5,90.0,0,0,0,0
+Keetsa,Tea Leaf Supreme,1570.0,Foam,12.0,120.0,4.5,90.0,0,0,0,0
+Leesa,Leesa Legend,2399.0,Hybrid,12.0,119.0,6.5,100.0,0,0,0,0
+Linenspa,12-Inch Gel Memory Foam Hybrid,540.0,Hybrid,12.0,92.0,3.5,30.0,0,0,0,0
+Linenspa,6-Inch Innerspring,175.0,Innerspring,6.0,78.0,7.5,30.0,0,0,0,0
+Linenspa,10-Inch Latex Hybrid,405.0,Hybrid,10.0,82.0,6.5,30.0,0,0,0,0
+Live and Sleep,Live & Sleep Mattress,799.0,Foam,12.0,76.0,5.0,100.0,0,0,0,0
+Lucid,Lucid Latex,550.0,Latex,10.0,84.0,6.5,30.0,0,0,0,0
+Lucid,Lucid Latex & Memory Foam,900.0,Foam,16.0,115.0,3.5,30.0,0,0,0,0
+Lull,Lull Mattress,800.0,Foam,10.0,69.0,6.5,100.0,0,0,0,0
+Luxi,Luxi One,799.0,Foam,9.0,79.0,4.0,100.0,0,0,0,0
+Lytton Sleep,Serene Mattress,1299.0,Hybrid,13.0,110.0,5.5,100.0,0,0,0,0
+Lytton Sleep,Serene Plus,1499.0,Hybrid,13.0,115.0,7.0,100.0,0,0,0,0
+Molecule,Molecule 1,949.0,Foam,12.25,87.0,4.5,100.0,0,0,0,0
+Molecule,Molecule 2,1499.0,Foam,12.25,87.0,5.5,100.0,0,0,0,0
+Morphiis,Morphiis Customizable Mattress,995.0,Foam,11.0,78.5,,100.0,0,1,0,0
+Muse,,900.0,Foam,12.0,,,120.0,0,1,1,0
+My Green Mattress,Hope Latex Mattress,1299.0,Latex,8.0,100.0,6.0,100.0,0,0,0,0
+Nature's Sleep,,1300.0,Foam,10.5,92.5,,0.0,0,1,0,0
+Naturepedic,Chorus,1999.0,Hybrid,10.0,,6.5,90.0,0,0,1,0
+Naturepedic,Luxury Series,4999.0,Hybrid,13.0,,,120.0,0,1,1,0
+Naturepedic,EOS Classic and EOS Pillow Top,2999.0,Hybrid,13.5,,,90.0,0,1,1,0
+Nectar,Nectar Lush,1399.0,Foam,12.0,94.0,5.5,365.0,0,0,0,0
+Nest Bedding,Alexander Hybrid Luxury Contour,1599.0,Hybrid,11.5,,5.5,100.0,0,0,1,0
+Nest Bedding,Alexander Signature Series Flippable,1299.0,Foam,14.0,80.0,6.5,100.0,0,0,0,0
+Nighslee,Nighslee 10-Inch Cool Gel Memory Foam Mattress,405.0,Foam,10.0,66.5,5.5,100.0,0,0,0,0
+Nolah,Nolah Signature,1499.0,Foam,12.0,86.0,5.5,120.0,0,0,0,0
+Noomi,,875.0,Foam,10.0,80.0,5.0,101.0,0,0,0,0
+Novaform,Foam,600.0,Foam,13.0,96.1,,,1,1,0,0
+Nuvanna,Nuvanna Mattress,890.0,Foam,10.0,77.0,6.0,90.0,0,0,0,0
+OkiOki,OkiEasy,500.0,Hybrid,11.0,96.0,6.0,365.0,0,0,0,0
+OkiOki,OkiFirm,500.0,Foam,10.0,64.0,8.0,365.0,0,0,0,0
+OkiOki,OkiFlex,500.0,Hybrid,11.0,93.0,7.0,365.0,0,0,0,0
+OkiOki,OkiSoft,500.0,Foam,10.0,59.0,5.0,365.0,0,0,0,0
+PlushBeds,Luxury Bliss,1399.0,Latex,12.0,,5.5,100.0,0,0,1,0
+Polysleep,Polysleep Mattress,650.0,Foam,10.0,62.0,5.5,100.0,0,0,0,0
+Puffy,Puffy Lux Mattress,1595.0,Foam,12.0,75.0,6.0,101.0,0,0,0,0
+Puffy,Puffy Royal,2695.0,Foam,14.0,80.0,5.5,101.0,0,0,0,0
+Qomfort,,549.0,Foam,10.0,68.0,6.0,100.0,0,0,0,0
+Real Sleep,Real Sleep,1095.0,Foam,10.0,79.0,6.5,100.0,0,0,0,0
+Resort Sleep,,999.0,Foam,10.0,70.0,,,1,1,0,0
+Rivet,Rivet Mattress,499.0,Foam,10.0,66.0,6.5,100.0,0,0,0,0
+Rubix,Rubix,1249.0,Hybrid,14.5,110.0,,120.0,0,1,0,0
+Saatva HD,Saatva HD,2499.0,Innerspring,15.5,135.0,7.0,120.0,0,0,0,0
+Sealy,House Brand,330.0,Innerspring,10.0,60.0,,,1,1,0,0
+Sealy Optimum,Optimum - Brassword,2125.0,Latex,12.0,104.0,,,1,1,0,0
+Sealy Optimum,Optimum - Destiny Gold,875.0,Foam,10.0,58.0,,,1,1,0,0
+Sealy Optimum,Optimum - Dreams,1375.0,Latex,10.0,73.0,,,1,1,0,0
+Sealy Optimum,Optimum - Elation Gold,1900.0,Foam,13.0,98.0,,,1,1,0,0
+Sealy Optimum,Optimum - Meadow Crest,1625.0,Latex,11.0,79.0,,,1,1,0,0
+Sealy Optimum,Optimum - Newness,2625.0,Latex,13.0,103.0,,,1,1,0,0
+Sealy Optimum,Optimum - Radiance Gold,1100.0,Foam,11.0,76.0,,,1,1,0,0
+Sealy Posturepedic,Posturpedic,400.0,Innerspring,11.875,75.0,4.0,,1,0,0,0
+Sealy Posturepedic,Posturpedic Hybrid,1000.0,Hybrid,12.5,105.0,4.0,,1,0,0,0
+Sealy Posturepedic,Posturpedic Plus,540.0,Innerspring,13.5,80.0,5.0,,1,0,0,0
+Serta iComfort,iComfort Blue Series,1099.0,Foam,11.875,95.0,,120.0,0,1,0,0
+Serta iComfort,Icomfort hybrid,1074.0,Hybrid,14.0,110.0,,120.0,0,1,0,0
+Serta iSeries,Iseries,1300.0,Hybrid,14.75,110.0,4.0,120.0,0,0,0,0
+Serta,Caledonian Plush and Molenda Luxe Firm,799.0,Foam,9.5,,,45.0,0,1,1,0
+Serta,Perfect sleeper,350.0,Hybrid,12.0,90.0,,45.0,0,1,0,0
+Serta,Sertapedic,312.0,Hybrid,8.25,85.0,,120.0,0,1,0,0
+Simba,Simba Hybrid Mattress,749.0,Hybrid,9.75,90.0,6.5,100.0,0,0,0,0
+Simmons,Beauty Sleep,359.0,Innerspring,11.75,,,,1,1,1,0
+Beautyrest Black,Beautyrest Black,2099.0,Innerspring,14.5,,5.5,100.0,0,0,1,0
+Beautyrest Black,Beautyrest Recharge World Class,1499.0,Innerspring,14.5,,,100.0,0,1,1,0
+Beautyrest Black,Beautyrest Platinum Hybrid,2499.0,Hybrid,15.0,,,100.0,0,1,1,0
+Beautyrest Black,Beautyrest Recharge,799.0,Innerspring,13.25,,,100.0,0,1,1,0
+Beautyrest Black,Beautyrest Recharge Hybrid,1499.0,Hybrid,13.25,,,100.0,0,1,1,0
+Sleep EZ,Luxerion Natural Latex Hybrid,650.0,Latex,9.0,100.0,6.0,90.0,0,0,0,0
+Sleep EZ,Roma Latex Matress,695.0,Latex,9.0,120.0,6.0,90.0,0,0,0,0
+Sleep Innovations,Marley,324.0,Foam,10.0,72.4,6.5,,1,0,0,0
+Sleep Innovations,Shiloh,377.0,Foam,12.0,86.95,5.5,,1,0,0,0
+Sleep Innovations,Skylar,550.0,Foam,12.0,74.2,6.5,,1,0,0,0
+Sleep Innovations,Taylor,515.0,Foam,12.0,73.2,6.5,,1,0,0,0
+Sleep Innovations,Alden,601.0,Foam,14.0,88.9,4.5,,1,0,0,0
+Sleep Innovations,Sage,273.0,Foam,8.0,63.5,6.5,,1,0,0,0
+Sleep Innovations,Shea,450.0,Foam,10.0,69.0,5.5,,1,0,0,0
+Sleep Number,"Classic Series (c2, c4)",999.0,Smart/Other,9.0,57.5,,100.0,0,1,0,0
+Sleep Number,"Innovation Series (i8, iLE, i10)",3199.0,Smart/Other,14.0,100.0,,100.0,0,1,0,0
+Sleep Number,Sleep Number m7,3099.0,Smart/Other,11.0,90.0,,100.0,0,1,0,0
+Sleep Number,"Performance Series (p5, pSE, p6)",2099.0,Smart/Other,11.5,65.0,,100.0,0,1,0,0
+Sleep Science,Latex,850.0,Latex,9.5,105.0,,120.0,0,1,0,0
+Sleep Science,Memory Foam,400.0,Foam,10.5,87.0,,120.0,0,1,0,0
+SleepOvation,SleepOvation Mattress,1749.0,Hybrid,12.0,90.0,6.0,100.0,0,0,0,0
+Snuggle-Pedic,Snuggle-Pedic Mattress,999.0,Foam,10.0,71.0,6.0,120.0,0,0,0,0
+Sonno,,875.0,Foam,10.0,105.0,,100.0,0,1,0,0
+Spoon,Spoon Sleep Mattress,1100.0,Foam,10.0,,6.5,100.0,0,0,1,0
+Spring Air,Hybrid,819.0,Hybrid,14.5,,,0.0,0,1,1,0
+Spring Air,Latex,1099.0,Latex,14.75,,,0.0,0,1,1,0
+Stearns & Foster,Estate,1499.0,Hybrid,14.75,,,,1,1,1,0
+Stearns & Foster,Lux Hybrid,2499.0,Hybrid,14.25,,,,1,1,1,0
+Stearns & Foster,Reserve,3499.0,Hybrid,16.5,,,,1,1,1,0
+Stearns & Foster,Lux Estate,2499.0,Hybrid,15.25,,,,1,1,1,0
+Sweet Zzz,Natures Novel Latex Mattress,1399.0,Latex,12.0,95.0,7.0,100.0,0,0,0,0
+Tempur-Pedic,TEMPUR-Legacy,2299.0,Foam,10.0,73.0,4.0,90.0,0,0,0,0
+Tempur-Pedic,Tempur-Pedic Cloud,3099.0,Foam,12.5,,3.0,90.0,0,0,1,0
+Tempur-Pedic,Tempur-Pedic Contour,3099.0,Foam,13.0,,7.0,90.0,0,0,1,0
+Tempur-Pedic,Flex,1999.0,Hybrid,11.25,,,90.0,0,1,1,0
+Tempur-Pedic,Tempur-Pedic GrandBed,7499.0,Foam,15.0,,4.0,90.0,0,0,1,0
+Tempur-Pedic,TEMPUR-Adapt Hybrid,2199.0,Hybrid,11.0,96.0,5.0,90.0,0,0,0,0
+Tempur-Pedic,TEMPUR-PRObreeze,3799.0,Foam,12.0,108.9,5.0,90.0,0,0,0,0
+Tuft & Needle,T&N Mattress,506.0,Foam,10.0,72.0,6.5,100.0,0,0,0,0
+Tulo,Tulo Liv,490.0,Foam,9.0,57.0,5.5,120.0,0,0,0,0
+Urban Mattress,Silver Lake,1599.0,Innerspring,12.5,109.0,,100.0,0,1,0,0
+Wright,W.127,1795.0,Foam,11.0,85.0,6.0,120.0,0,0,0,0
+Yaasa,Yaasa ONE Mattress,899.0,Hybrid,10.0,71.0,6.5,100.0,0,0,0,0
+Yogabed,Yogabed Original,849.0,Foam,10.0,80.0,6.5,101.0,0,0,0,0
+Yogabed,Unplug Mattress,595.0,Foam,10.0,55.0,5.0,101.0,0,0,0,0
+Zinus,"10"" Cooling Hybrid Gel Foam",350.0,Hybrid,10.0,80.7,6.0,100.0,0,0,0,0
+Zinus,"10"" Memory Foam",277.0,Foam,10.0,61.6,6.0,100.0,0,0,0,0
+Zinus,"12"" Cooling Hybrid Gel Foam",380.0,Hybrid,12.0,91.9,5.0,100.0,0,0,0,0
+Zinus,"12"" iCoil",246.0,Innerspring,12.0,89.2,5.0,100.0,0,0,0,0
+Zinus,"12"" Memory Foam",307.0,Foam,12.0,71.8,5.0,100.0,0,0,0,0
+Zinus,"13"" iCoil",329.0,Innerspring,13.0,93.9,4.0,100.0,0,0,0,0
+Zinus,"14"" Memory Foam",399.0,Foam,14.0,75.2,3.0,100.0,0,0,0,0
+Zinus,"8"" Memory Foam",228.0,Foam,8.0,48.4,7.0,100.0,0,0,0,0
+Zinus,"10"" iCoil",230.0,Innerspring,10.0,81.9,6.0,100.0,0,0,0,0
+Zinus,"6"" Memory Foam",145.0,Foam,6.0,28.2,8.0,100.0,0,0,0,0
+Zoma,Zoma Sports Mattress,850.0,Foam,11.0,70.0,5.5,100.0,0,0,0,0
+Zoned by Brooklyn Bedding,Zoned Mattress,1249.0,Hybrid,13.0,110.0,5.0,120.0,0,0,0,0
+Zotto,Zotto Mattress,875.0,Foam,10.0,97.0,6.5,100.0,0,0,0,0
+Saatva,Saatva Mattress,1299.0,Innerspring,11.5,120.0,4.0,120.0,0,0,0,0
+Saatva,Saatva Mattress,1299.0,Innerspring,14.5,120.0,4.0,120.0,0,0,0,0
+Saatva,Saatva Mattress,1299.0,Innerspring,11.5,120.0,6.0,120.0,0,0,0,0
+Saatva,Saatva Mattress,1299.0,Innerspring,14.5,120.0,6.0,120.0,0,0,0,0
+Saatva,Saatva Mattress,1299.0,Innerspring,11.5,120.0,7.5,120.0,0,0,0,0
+Saatva,Saatva Mattress,1299.0,Innerspring,14.5,120.0,7.5,120.0,0,0,0,0
+Plushbeds,Botanical Bliss,1499.0,Latex,9.0,121.0,5.5,100.0,0,0,0,0
+Plushbeds,Botanical Bliss,1799.0,Latex,10.0,129.0,5.5,100.0,0,0,0,0
+Plushbeds,Botanical Bliss,2199.0,Latex,12.0,172.0,5.5,100.0,0,0,0,0
+Plushbeds,Botanical Bliss,1499.0,Latex,9.0,121.0,7.5,100.0,0,0,0,0
+Plushbeds,Botanical Bliss,1799.0,Latex,10.0,129.0,7.5,100.0,0,0,0,0
+Plushbeds,Botanical Bliss,2199.0,Latex,12.0,172.0,7.5,100.0,0,0,0,0
+Novosbed,Novosbed,999.0,Foam,11.0,,3.5,120.0,0,0,1,0
+Novosbed,Novosbed,999.0,Foam,11.0,103.0,5.0,120.0,0,0,0,0
+Novosbed,Novosbed,999.0,Foam,11.0,,6.5,120.0,0,0,1,0
+Sleep On Latex,Pure Green Standard,795.0,Latex,9.0,85.0,3.5,100.0,0,0,0,0
+Sleep On Latex,Pure Green Standard,795.0,Latex,9.0,125.0,5.5,100.0,0,0,0,0
+Sleep On Latex,Pure Green Standard,795.0,Latex,9.0,143.0,7.5,100.0,0,0,0,0
+Purple,Hybrid Premier,2699.0,Hybrid,13.0,168.0,4.5,101.0,0,0,0,0
+Purple,Hybrid Premier,2199.0,Hybrid,12.0,145.0,5.5,101.0,0,0,0,0
+Latex For Less,Latex For Less Mattress,999.0,Latex,9.0,145.0,6.25,120.0,0,0,0,0
+Latex For Less,Latex For Less Mattress,899.0,Latex,7.0,100.0,6.25,120.0,0,0,0,0
+Avocado Green Mattress,Avocado Green,1399.0,Hybrid,11.0,97.0,7.0,365.0,0,0,0,0
+Avocado Green Mattress,Avocado Green,1799.0,Hybrid,13.0,132.0,6.5,365.0,0,0,0,0
+Avocado Green Mattress,Avocado Vegan Mattress,1399.0,Hybrid,11.0,97.0,6.5,100.0,0,0,0,0
+Avocado Green Mattress,Avocado Vegan Mattress,1799.0,Hybrid,13.0,132.0,5.0,100.0,0,0,0,0
+Brentwood Home,Cypress,599.0,Foam,11.0,50.0,7.0,120.0,0,0,0,0
+Brentwood Home,Cypress,799.0,Foam,13.0,53.0,5.0,120.0,0,0,0,0
+Brentwood Home,Cypress Hybrid,799.0,Hybrid,11.0,90.0,7.0,120.0,0,0,0,0
+Brentwood Home,Cypress Hybrid,999.0,Hybrid,13.0,92.0,5.0,120.0,0,0,0,0
+Ikea,Haugesund,249.0,Innerspring,9.875,59.5,6.0,365.0,0,0,0,0
+Ikea,Haugesund,249.0,Innerspring,9.875,66.125,8.0,365.0,0,0,0,0
+Ikea,Haugsvar,399.0,Innerspring,11.0,74.9375,5.5,365.0,0,0,0,0
+Ikea,Haugsvar,399.0,Innerspring,11.0,72.75,7.5,365.0,0,0,0,0
+Ikea,Hesstun,499.0,Innerspring,12.625,103.625,5.0,365.0,0,0,0,0
+Ikea,Hesstun,499.0,Innerspring,12.625,116.875,8.0,365.0,0,0,0,0
+Ikea,Morgedal,299.0,Foam,7.1,46.3125,6.0,365.0,0,0,0,0
+Ikea,Morgedal,299.0,Foam,7.1,46.3125,8.0,365.0,0,0,0,0
+Linenspa,8-Inch Memory Foam Hybrid,244.99,Innerspring,8.0,55.0,6.5,30.0,0,0,0,0
+Linenspa,10-Inch Memory Foam Hybrid,324.99,Innerspring,10.0,72.0,6.5,30.0,0,0,0,0
+Lucid,6″ Gel Memory Foam,169.0,Foam,6.0,28.9,7.5,30.0,0,0,0,0
+Lucid,8″ Gel Memory Foam,219.99,Foam,8.0,47.5,6.5,30.0,0,0,0,0
+Lucid,10″ Gel Memory Foam,234.99,Foam,10.0,55.0,6.5,30.0,0,0,0,0
+Lucid,10″ Plush Memory Foam,229.99,Foam,10.0,60.0,4.5,30.0,0,0,0,0
+Lucid,12″ Plush Gel Memory Foam,354.99,Foam,12.0,73.2,4.5,30.0,0,0,0,0
+Lucid,14″ Plush Memory Foam,450.0,Foam,14.0,92.0,3.5,30.0,0,0,0,0
+Luft,The Luft Bed,1399.0,Hybrid,13.5,125.0,4.0,100.0,0,0,0,0
+Luft,The Luft Bed,1399.0,Hybrid,13.5,125.0,6.0,100.0,0,0,0,0
+Luft,The Luft Bed,1399.0,Hybrid,13.5,125.0,7.0,100.0,0,0,0,0
+Nest Bedding,Natural Hybrid Latex,1599.0,Latex,12.0,100.0,4.0,100.0,0,0,0,0
+Nest Bedding,Natural Hybrid Latex,1599.0,Latex,12.0,100.0,5.5,100.0,0,0,0,0
+Nest Bedding,Natural Hybrid Latex,1599.0,Latex,12.0,100.0,7.5,100.0,0,0,0,0
+PlushBeds,Natural Bliss,1199.0,Latex,6.0,,3.5,100.0,0,0,1,0
+PlushBeds,Natural Bliss,1199.0,Latex,6.0,,5.5,100.0,0,0,1,0
+PlushBeds,Natural Bliss,1199.0,Latex,6.0,,6.0,100.0,0,0,1,0
+PlushBeds,Natural Bliss,1374.0,Latex,6.0,,7.5,100.0,0,0,1,0
+PlushBeds,Natural Bliss,1499.0,Latex,8.0,,3.5,100.0,0,0,1,0
+PlushBeds,Natural Bliss,1499.0,Latex,8.0,,5.5,100.0,0,0,1,0
+PlushBeds,Natural Bliss,1499.0,Latex,8.0,,6.0,100.0,0,0,1,0
+PlushBeds,Natural Bliss,1774.0,Latex,8.0,,7.5,100.0,0,0,1,0
+PlushBeds,Natural Bliss,1899.0,Latex,10.0,,3.5,100.0,0,0,1,0
+PlushBeds,Natural Bliss,1899.0,Latex,10.0,,5.5,100.0,0,0,1,0
+PlushBeds,Natural Bliss,1899.0,Latex,10.0,,6.0,100.0,0,0,1,0
+Sealy,Sealy Response Essentials,390.11,Innerspring,8.5,41.0,6.5,,1,0,0,0
+Sealy,Sealy Response Essentials,423.54,Innerspring,10.0,47.0,6.5,,1,0,0,0
+Sealy,Sealy Response Essentials,449.99,Innerspring,11.0,46.0,6.5,,1,0,0,0
+Sealy,Sealy Response Essentials,479.0,Innerspring,11.5,56.0,3.5,,1,0,0,0
+Sealy,Sealy Response Essentials,595.47,Innerspring,13.0,50.0,3.5,,1,0,0,0
+Sealy,Sealy Response Performance,419.99,Innerspring,12.0,39.0,3.5,,1,0,0,0
+Sealy,Sealy Response Performance,663.2,Innerspring,12.0,50.0,6.5,,1,0,0,0
+Sealy,Sealy Response Performance,539.99,Innerspring,13.0,51.0,3.5,,1,0,0,0
+Sealy,Sealy Response Performance,462.55,Innerspring,13.0,51.0,6.5,,1,0,0,0
+Sealy,Sealy Response Performance,839.99,Innerspring,14.0,55.0,5.0,,1,0,0,0
+Sealy,Sealy Response Performance,636.48,Innerspring,14.0,65.0,3.5,,1,0,0,0
+Sealy Posturepedic,Sealy Response Premium,999.0,Innerspring,14.0,77.0,5.0,,1,0,0,0
+Sealy Posturepedic,Sealy Response Premium,1002.39,Innerspring,14.0,77.0,3.5,,1,0,0,0
+Sealy Posturepedic,Sealy Response Premium,1059.99,Innerspring,16.0,80.0,3.5,,1,0,0,0
+Sealy Posturepedic,Sealy Response Premium,941.01,Innerspring,13.0,66.0,5.0,,1,0,0,0
+Sealy Posturepedic,Sealy Response Premium,1018.43,Innerspring,16.0,80.0,5.0,,1,0,0,0
+Beautyrest Black,Mariela Luxury Firm,2599.0,Innerspring,15.0,114.0,6.0,100.0,0,0,0,0
+Tempur-Pedic,TEMPUR-breeze,4499.0,Foam,13.0,108.9,3.0,90.0,0,0,0,0
+Tempur-Pedic,TEMPUR-breeze,4499.0,Foam,13.0,110.2,7.0,90.0,0,0,0,0
+Voila,Voila Mattress,1199.0,Hybrid,12.0,130.0,4.0,100.0,0,0,0,0
+Voila,Voila Mattress,1199.0,Hybrid,11.0,130.0,6.0,100.0,0,0,0,0
+Voila,Voila Mattress,1199.0,Hybrid,10.0,130.0,8.0,100.0,0,0,0,0
+Yaasa,Yaasa Mattress,1299.0,Hybrid,12.0,,4.0,100.0,0,0,1,0
+Yaasa,Yaasa Mattress,1299.0,Hybrid,12.0,,6.5,100.0,0,0,1,0
